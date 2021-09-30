@@ -22,7 +22,7 @@ const CardBx = styled.div`
     display: flex;
     flex-direction: column;
     border: 1px solid;
-    margin: 1.5rem;
+    margin: 2rem;
     box-shadow: 0 4px 8px rgba(0,0,0,0.5);
 `
 
@@ -112,6 +112,33 @@ function Masters() {
                             <FilterTiltShift fontSize="large" style={{margin:"1rem 0 0 1rem", width:"50px", height:"50px", boxShadow:"0 4px 8px rgba(0,0,0,0.5)", borderRadius:"50%"}}/>
                         <Info>
                             <InfoTitle>
+                                Digital Marketing
+                            </InfoTitle>
+                            <Time>
+                                <Duration>
+                                    <CalendarTodayOutlined fontSize="small" />
+                                    12 Months</Duration>
+                                <Courses>
+                                    <LibraryBooks fontSize="small"/> 
+                                    15 Courses</Courses>
+                            </Time>
+                            <Perks>
+                                <Item>
+                                    <Done style={{color:"green"}}/>
+                                    Simplilearn JobAssist Program</Item>
+                                <Item>
+                                    <Done style={{color:"green"}}/>
+                                    Simplilearn JobAssist Program</Item>
+                                <Item>
+                                    <Done style={{color:"green"}}/>
+                                    Simplilearn JobAssist Program</Item>
+                            </Perks>
+                        </Info>
+                    </CardBx>
+                    <CardBx>
+                            <FilterTiltShift fontSize="large" style={{margin:"1rem 0 0 1rem", width:"50px", height:"50px", boxShadow:"0 4px 8px rgba(0,0,0,0.5)", borderRadius:"50%"}}/>
+                        <Info>
+                            <InfoTitle>
                                 Digital Marketing Specialist
                             </InfoTitle>
                             <Time>
@@ -139,7 +166,7 @@ function Masters() {
                             <FilterTiltShift fontSize="large" style={{margin:"1rem 0 0 1rem", width:"50px", height:"50px", boxShadow:"0 4px 8px rgba(0,0,0,0.5)", borderRadius:"50%"}}/>
                         <Info>
                             <InfoTitle>
-                                Java
+                                Digital Marketing Specialist
                             </InfoTitle>
                             <Time>
                                 <Duration>
@@ -166,7 +193,7 @@ function Masters() {
                             <FilterTiltShift fontSize="large" style={{margin:"1rem 0 0 1rem", width:"50px", height:"50px", boxShadow:"0 4px 8px rgba(0,0,0,0.5)", borderRadius:"50%"}}/>
                         <Info>
                             <InfoTitle>
-                                Python 
+                                Digital Marketing Specialist
                             </InfoTitle>
                             <Time>
                                 <Duration>
@@ -193,34 +220,7 @@ function Masters() {
                             <FilterTiltShift fontSize="large" style={{margin:"1rem 0 0 1rem", width:"50px", height:"50px", boxShadow:"0 4px 8px rgba(0,0,0,0.5)", borderRadius:"50%"}}/>
                         <Info>
                             <InfoTitle>
-                                React 
-                            </InfoTitle>
-                            <Time>
-                                <Duration>
-                                    <CalendarTodayOutlined fontSize="small" />
-                                    12 Months</Duration>
-                                <Courses>
-                                    <LibraryBooks fontSize="small"/> 
-                                    13 Courses</Courses>
-                            </Time>
-                            <Perks>
-                                <Item>
-                                    <Done style={{color:"green"}}/>
-                                    Simplilearn JobAssist Program</Item>
-                                <Item>
-                                    <Done style={{color:"green"}}/>
-                                    Simplilearn JobAssist Program</Item>
-                                <Item>
-                                    <Done style={{color:"green"}}/>
-                                    Simplilearn JobAssist Program</Item>
-                            </Perks>
-                        </Info>
-                    </CardBx>
-                    <CardBx>
-                            <FilterTiltShift fontSize="large" style={{margin:"1rem 0 0 1rem", width:"50px", height:"50px", boxShadow:"0 4px 8px rgba(0,0,0,0.5)", borderRadius:"50%"}}/>
-                        <Info>
-                            <InfoTitle>
-                                Node 
+                                Digital Marketing Specialist
                             </InfoTitle>
                             <Time>
                                 <Duration>
