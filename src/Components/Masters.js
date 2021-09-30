@@ -112,7 +112,7 @@ function Masters() {
                             <FilterTiltShift fontSize="large" style={{margin:"1rem 0 0 1rem", width:"50px", height:"50px", boxShadow:"0 4px 8px rgba(0,0,0,0.5)", borderRadius:"50%"}}/>
                         <Info>
                             <InfoTitle>
-                                Digital Marketing Specialist
+                                Digital Marketing
                             </InfoTitle>
                             <Time>
                                 <Duration>
