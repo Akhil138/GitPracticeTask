@@ -120,7 +120,7 @@ function Masters() {
                                     12 Months</Duration>
                                 <Courses>
                                     <LibraryBooks fontSize="small"/> 
-                                    13 Courses</Courses>
+                                    15 Courses</Courses>
                             </Time>
                             <Perks>
                                 <Item>
